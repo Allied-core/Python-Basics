@@ -1,6 +1,6 @@
 import random
 import sys 
-from sys import stdin #replacing with input() and print() for faster execution
+from sys import stdin 
 
 while True:
     try:
