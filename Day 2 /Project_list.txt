@@ -1,0 +1,67 @@
+---- Day 2 ----
+ 
+ 1. Expense Tracker
+
+Description: A simple program that records expenses and analyzes spending.
+
+Features:
+Add an expense
+Store expense details
+Display all expenses
+Calculate total spending
+Calculate category-wise spending
+Find highest expense
+
+ 
+ 2. Student Marks Analyzer
+
+Description: Analyzes students' marks and generates basic performance statistics.
+
+Features:
+Add student marks
+Store multiple students
+Calculate student average
+Find highest scorer
+Find lowest scorer
+Display pass/fail students
+Calculate class average
+
+ 
+ 3. Shopping Cart
+
+Description: A simple shopping cart where users can add products, remove products, and calculate the total price.
+
+Features:
+Display available products
+Add products to cart
+Remove products
+Set item quantity
+Calculate total price
+Display cart
+
+
+ 4. Contact Book
+
+Description: A simple contact management system for storing and finding people's contact information.
+
+Features:
+Add contact
+Store name and phone number
+Search contact
+Delete contact
+Update contact
+Display all contacts
+
+
+ 5. Inventory Manager
+
+Description: A basic inventory system that keeps track of products and their available quantities.
+
+Features:
+Add products
+Store product quantities
+Update stock
+Remove products
+Search products
+Display inventory
+Identify out-of-stock products
