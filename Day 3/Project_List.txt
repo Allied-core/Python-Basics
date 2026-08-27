@@ -1,0 +1,79 @@
+------- Day 3 -------
+ 1. Bank Management System
+
+Description: A simple banking system that uses functions to manage accounts, deposits, withdrawals, and balances.
+
+Features:
+Create account
+Deposit money
+Withdraw money
+Check balance
+Transfer money
+Display account details
+Validate transactions
+
+ 2. Library Management System
+
+Description: A basic library system that manages books and their borrowing status.
+
+Features:
+Add book
+Display books
+Search for a book
+Borrow book
+Return book
+Remove book
+Check book availability
+
+ 3. ATM Simulator
+
+Description: Simulates basic ATM operations such as checking balance, withdrawing money, and depositing money.
+
+Features:
+Enter PIN
+Check balance
+Withdraw money
+Deposit money
+Change PIN
+Display transaction result
+Handle invalid transactions
+
+ 4. Expense Manager
+
+Description: An improved expense management program that organizes transactions and provides spending summaries.
+
+Features:
+Add income
+Add expense
+Categorize transactions
+Calculate current balance
+Display transaction history
+Calculate total income
+Calculate total expenses
+
+ 5. Student Management System
+
+Description: A program that manages student records and performs basic operations on them.
+
+Features:
+Add student
+Update student details
+Delete student
+Search student
+Display student details
+Calculate student average
+Find class topper
+
+ 6. Restaurant Order Management System
+
+Description: A simple ordering system that manages a menu, customer orders, quantities, and the final bill.
+
+Features:
+Display menu
+Add items to order
+Remove items from order
+Update item quantity
+Calculate total bill
+Apply basic discount
+Display order summary
+Generate final bill
