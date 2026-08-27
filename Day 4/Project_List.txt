@@ -1,0 +1,176 @@
+-------------------- Day 4  --------------------
+Python Files & Exception Handling
+
+--- Project list and description ---
+
+1. Log Analyzer
+
+Description: Reads a log file and analyzes its messages to identify errors, warnings, and general information.
+
+Features:
+
+Read log file
+Count INFO messages
+Count WARNING messages
+Count ERROR messages
+Search for specific messages
+Display log statistics
+Handle missing files
+
+Use : app.log
+2026-08-27 09:01:12 INFO User logged in
+2026-08-27 09:05:43 INFO Dashboard opened
+2026-08-27 09:12:10 WARNING Slow database response
+2026-08-27 09:15:22 INFO User viewed profile
+2026-08-27 09:20:51 ERROR Database connection failed
+2026-08-27 09:21:03 ERROR Unable to load user data
+2026-08-27 09:25:17 INFO User logged out
+2026-08-27 10:01:34 INFO User logged in
+2026-08-27 10:05:12 WARNING Disk space is low
+2026-08-27 10:08:45 INFO File uploaded
+2026-08-27 10:10:23 ERROR File upload failed
+2026-08-27 10:15:55 INFO User logged out
+2026-08-27 11:02:11 WARNING Network connection unstable
+2026-08-27 11:05:32 ERROR Request timeout
+2026-08-27 11:10:43 INFO User logged in
+
+
+
+
+2. Student Record Manager
+
+Description: Stores student records in a file and allows users to manage and retrieve student information.
+
+Features:
+Add student record
+View student records
+Search for a student
+Update student record
+Delete student record
+Save records to file
+Handle invalid input and file errors
+
+Use:  student.txt
+101,Arjun,Computer Science,78
+102,Priya,Information Technology,91
+103,Rahul,Computer Science,65
+104,Ananya,Electronics,84
+105,Vivek,Mechanical,72
+106,Neha,Information Technology,88
+107,Rohan,Computer Science,56
+108,Isha,Electronics,95
+109,Karan,Mechanical,69
+110,Meera,Information Technology,81
+
+
+
+3. Expense Report Generator
+
+Description: Reads expense records from a file and generates a summary of the user's spending.
+
+Features:
+Read expense records
+Add new expenses
+Calculate total expenses
+Calculate category-wise expenses
+Find highest expense
+Generate summary report
+Handle invalid expense data
+
+Use: expense.txt
+2026-08-01,Food,Lunch,150
+2026-08-02,Transport,Bus,40
+2026-08-03,Entertainment,Movie,300
+2026-08-04,Food,Dinner,250
+2026-08-05,Education,Books,450
+2026-08-06,Transport,Auto,120
+2026-08-07,Food,Breakfast,100
+2026-08-08,Shopping,Clothes,800
+2026-08-09,Education,Notebook,120
+2026-08-10,Entertainment,Game,500
+2026-08-11,Food,Lunch,180
+2026-08-12,Transport,Bus,40
+2026-08-13,Shopping,Shoes,1200
+2026-08-14,Food,Dinner,280
+2026-08-15,Education,Course,600
+
+
+
+
+4. Text File Analyzer
+
+Description: Reads a text file and analyzes its contents to generate basic statistics.
+
+Features:
+Read text file
+Count lines
+Count words
+Count characters
+Find most frequent words
+Search for words
+Handle missing or empty files
+
+Use: sample.txt
+Python is a powerful programming language.
+Python is easy to learn and easy to use.
+Programming requires practice and patience.
+Practice helps programmers improve their problem solving skills.
+Python is commonly used for automation, data analysis, and machine learning.
+Learning programming takes time, but consistent practice produces better results.
+Good programmers write code, test code, and improve code.
+
+
+
+
+5. Contact File Manager
+
+Description: A contact management system that stores contact information in a file and allows users to manage it.
+
+Features:
+Add contact
+View contacts
+Search contact
+Update contact
+Delete contact
+Save contacts to file
+Handle duplicate and invalid contacts
+
+Use: contacts.txt
+101,Arjun,9876543210,arjun@email.com
+102,Priya,9123456780,priya@email.com
+103,Rahul,9988776655,rahul@email.com
+104,Ananya,9012345678,ananya@email.com
+105,Vivek,9345678901,vivek@email.com
+106,Neha,9876501234,neha@email.com
+107,Rohan,9123409876,rohan@email.com
+108,Isha,9988123456,isha@email.com
+
+
+
+
+6. Bank Transaction Logger
+
+Description: Records banking transactions in a file and generates a transaction summary.
+
+Features:
+Record deposits
+Record withdrawals
+View transaction history
+Calculate total deposits
+Calculate total withdrawals
+Calculate current balance
+Handle invalid transaction data
+
+Use : transactions.txt
+2026-08-01,DEPOSIT,Salary,30000
+2026-08-02,WITHDRAWAL,Groceries,2500
+2026-08-03,WITHDRAWAL,Transport,800
+2026-08-05,DEPOSIT,Freelance,5000
+2026-08-06,WITHDRAWAL,Electricity Bill,1800
+2026-08-08,WITHDRAWAL,Shopping,2200
+2026-08-10,DEPOSIT,Salary,30000
+2026-08-11,WITHDRAWAL,Food,1200
+2026-08-13,WITHDRAWAL,Internet Bill,700
+2026-08-15,DEPOSIT,Freelance,3500
+2026-08-17,WITHDRAWAL,Transport,600
+2026-08-20,WITHDRAWAL,Entertainment,1000
