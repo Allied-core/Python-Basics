@@ -1,0 +1,25 @@
+Exercises
+1. Personal Introduction
+Take the user's name, age and city and print a properly formatted introduction.
+Practice: input, variables, strings, output.
+2. Simple Calculator
+Take two numbers and display:
+‌Addition
+‌Subtraction
+‌Multiplication
+‌Division
+‌Remainder
+Hint: The % operator gives the remainder.
+3. Even or Odd
+Take an integer and determine whether it is even or odd.
+Hint: Think about the remainder when dividing by 2.
+4. Number Classifier
+Take a number and determine whether it is:
+‌Positive
+‌Negative
+‌Zero
+Hint: This is a direct if / elif / else problem.
+5. Largest of Three
+Take three numbers and print the largest.
+Restriction: Don't use max().
+Hint: Compare the numbers using conditions.
