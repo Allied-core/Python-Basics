@@ -1,0 +1,27 @@
+Exercises
+1. Numbers 1–10
+Print numbers from 1 to 10 using a loop.
+Practice: for, range().
+2. Multiplication Table
+Take a number and print its multiplication table from 1 to 10.
+Example:
+5 × 1 = 5
+5 × 2 = 10
+...
+Practice: loops + arithmetic.
+3. Sum of N Numbers
+Take N and calculate:
+1 + 2 + 3 + ... + N
+Hint: Start with total = 0.
+4. Count Digits
+Take an integer and count how many digits it contains.
+Example:
+Input: 58392
+Output: 5
+Hint: Think about repeatedly removing the last digit.
+5. Reverse a Number
+Reverse an integer.
+Example:
+Input: 12345
+Output: 54321
+Hint: % 10 gives the last digit. // 10 removes it.
