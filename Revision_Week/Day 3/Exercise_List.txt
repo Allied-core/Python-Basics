@@ -1,0 +1,34 @@
+Exercises
+
+ 1. Count Vowels
+Take a string and count the number of vowels.
+Example:
+Input: programming
+Output: 3
+Practice: strings + loops + conditions.
+
+ 2. Reverse a String
+Take a string and print it backwards.
+Example:
+Python → nohtyP
+Hint: Try solving it using slicing first.
+
+ 3. Find Largest List Element
+Given:
+numbers = [12, 45, 7, 89, 23]
+find the largest value.
+Restriction: Don't use max().
+Hint: Keep a variable containing the largest value seen so far.
+
+ 4. Count Even Numbers
+Given:
+numbers = [10, 15, 22, 31, 44, 57, 60]
+count the even numbers.
+Practice: list traversal + conditions + counter.
+
+ 5. Remove Duplicates
+Given:
+numbers = [1, 2, 2, 3, 4, 4, 5, 1]
+create:
+[1, 2, 3, 4, 5]
+Hint: Before adding an item, check whether it already exists.
