@@ -1,0 +1,47 @@
+Exercises
+1. Student Information
+Create a student dictionary containing:
+name
+age
+course
+marks
+Print each value.
+Practice: dictionaries.
+
+2. Word Frequency
+Take a sentence and count how many times each word appears.
+Example:
+apple banana apple mango banana apple
+Expected:
+apple → 3
+banana → 2
+mango → 1
+Hint: Dictionary values can act as counters.
+
+3. Addition Function
+Create:
+add(a, b)
+It should return the sum.
+Test it with multiple values.
+Practice: parameters + return.
+
+4. Prime Number Function
+Create:
+is_prime(number)
+Return:
+True
+if prime and:
+False
+otherwise.
+Hint: Check whether the number is divisible by numbers between 2 and the number before it.
+
+5. Grade Calculator Function
+Create:
+calculate_grade(marks)
+Use:
+90+     → A
+80–89   → B
+70–79   → C
+60–69   → D
+Below60 → F
+Return the grade.
