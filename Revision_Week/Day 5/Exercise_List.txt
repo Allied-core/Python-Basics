@@ -1,0 +1,60 @@
+Exercises
+
+ 1. Number Analyzer
+Take 10 numbers from the user.
+Display:
+Largest
+Smallest
+Sum
+Average
+Even count
+Odd count
+Practice: loops + lists + conditions.
+
+ 2. Password Checker
+Ask for a password.
+Check whether it has:
+At least 8 characters
+At least one digit
+At least one uppercase letter
+Output:
+Strong Password
+or:
+Weak Password
+Hint: Check each requirement separately.
+
+ 3. Shopping Cart
+Create product names and prices.
+Calculate the total.
+Apply:
+1000+ → 10% discount
+500+  → 5% discount
+Below → No discount
+Display the final bill.
+Practice: lists + loops + conditions + arithmetic.
+
+ 4. Student Marks Analyzer
+Given:
+students = {
+    "Amit": 78,
+    "Rahul": 91,
+    "Priya": 65,
+    "Sneha": 88
+}
+Find:
+Highest scorer
+Lowest scorer
+Average marks
+Number passed
+Number failed
+Hint: Loop through .items().
+
+ 5. Menu Calculator
+Create:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+The program should continue until the user selects Exit.
+Use separate functions for the calculations.
