@@ -1,0 +1,39 @@
+Exercises
+1. Safe Division
+Ask the user for two numbers.
+Handle:
+Invalid numeric input
+Division by zero
+The program should display a useful message instead of crashing.
+Practice: try/except.
+
+2. Safe List Access
+Given:
+numbers = [10, 20, 30, 40, 50]
+Ask the user for an index.
+Display the corresponding number.
+Handle an invalid index.
+Practice: IndexError.
+
+3. Safe File Reader
+Ask the user for a filename.
+Try to open and display it.
+If it doesn't exist:
+File not found.
+The program must continue/exit cleanly instead of crashing.
+Practice: FileNotFoundError.
+
+4. Student Marks File
+Create:
+students.txt
+containing:
+Rahul,85
+Amit,72
+Priya,91
+Sneha,66
+Read the file and calculate:
+Average
+Highest mark
+Lowest mark
+Handle malformed lines without crashing the entire program.
+Practice: files + loops + conversion + exceptions.
