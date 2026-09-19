@@ -1,0 +1,29 @@
+Expense Tracker
+Build a small command-line expense tracker.
+
+Menu
+1. Add Expense
+2. View Expenses
+3. Calculate Total
+4. Exit
+
+Each expense should contain:
+Name
+Amount
+Category
+
+Example:
+Food - 250
+Transport - 100
+Food - 180
+
+Requirements
+Your program must:
+Add an expense
+Save it to a file
+Read expenses from the file
+Display expenses
+Calculate total expenses
+Reject invalid amounts
+Handle a missing file
+Continue until the user chooses Exit
