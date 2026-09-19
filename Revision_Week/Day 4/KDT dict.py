@@ -1,0 +1,5 @@
+dictionary = dict(name="Krishn", age=20, course="Computer Science & Engg", Marks=93)
+print(dictionary.get("name"))
+print(dictionary.get("age"))
+print(dictionary.get("course"))
+print(dictionary.get("Marks"))
