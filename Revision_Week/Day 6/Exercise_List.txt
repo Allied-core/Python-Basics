@@ -1,0 +1,40 @@
+Exercises
+
+ 1. Write Notes
+Create notes.txt.
+Write:
+Python Revision
+Day 6
+File Handling
+Practice: file creation + writing.
+
+ 2. Read Notes
+Read notes.txt and display its contents.
+Practice: opening + reading.
+
+ 3. Count Lines
+Create a text file containing several lines.
+Read it and display:
+Number of lines: X
+Hint: You can use readlines() or iterate over the file.
+
+ 4. Count Words
+Read a text file and calculate the total number of words.
+Example:
+Python is easy to learn
+Python is powerful
+Hint: Read the content, split it into words, then count them.
+
+ 5. Mini Log Analyzer
+Create log.txt:
+INFO User logged in
+ERROR Database failed
+INFO User opened dashboard
+WARNING Low memory
+ERROR Connection failed
+INFO User logged out
+Count:
+INFO
+WARNING
+ERROR
+Hint: Read line-by-line and check how each line begins.
